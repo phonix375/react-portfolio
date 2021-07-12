@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.95f96386.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.01e6cc42.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.01e6cc42.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.cbc6b922.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.457cb551.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.457cb551.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.09f61d1a.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.09f61d1a.js.map",
     "static/css/2.081f420c.chunk.css": "/react-portfolio/static/css/2.081f420c.chunk.css",
-    "static/js/2.5ca996e2.chunk.js": "/react-portfolio/static/js/2.5ca996e2.chunk.js",
-    "static/js/2.5ca996e2.chunk.js.map": "/react-portfolio/static/js/2.5ca996e2.chunk.js.map",
+    "static/js/2.9e47e919.chunk.js": "/react-portfolio/static/js/2.9e47e919.chunk.js",
+    "static/js/2.9e47e919.chunk.js.map": "/react-portfolio/static/js/2.9e47e919.chunk.js.map",
     "static/js/3.15f23b92.chunk.js": "/react-portfolio/static/js/3.15f23b92.chunk.js",
     "static/js/3.15f23b92.chunk.js.map": "/react-portfolio/static/js/3.15f23b92.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
     "static/css/2.081f420c.chunk.css.map": "/react-portfolio/static/css/2.081f420c.chunk.css.map",
-    "static/css/main.95f96386.chunk.css.map": "/react-portfolio/static/css/main.95f96386.chunk.css.map",
-    "static/js/2.5ca996e2.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.5ca996e2.chunk.js.LICENSE.txt",
+    "static/css/main.cbc6b922.chunk.css.map": "/react-portfolio/static/css/main.cbc6b922.chunk.css.map",
+    "static/js/2.9e47e919.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.9e47e919.chunk.js.LICENSE.txt",
     "static/media/hero.css": "/react-portfolio/static/media/demo-image-01.cc9d2e3e.jpg",
     "static/media/facebook.edc2880f.svg": "/react-portfolio/static/media/facebook.edc2880f.svg",
     "static/media/index.css": "/react-portfolio/static/media/opinion.9561d2a7.jpg",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.09f61d1a.js",
     "static/css/2.081f420c.chunk.css",
-    "static/js/2.5ca996e2.chunk.js",
-    "static/css/main.95f96386.chunk.css",
-    "static/js/main.01e6cc42.chunk.js"
+    "static/js/2.9e47e919.chunk.js",
+    "static/css/main.cbc6b922.chunk.css",
+    "static/js/main.457cb551.chunk.js"
   ]
 }
