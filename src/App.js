@@ -21,7 +21,7 @@ function App() {
       currentSelection={currentSelection}
       setCurrentSelection={setCurrentSelection}
       ></Navigation>
-       {currentSelection === 'About' && <About />} 
+       {currentSelection === 'About' && <About currentSelection={currentSelection} setCurrentSelection={setCurrentSelection}/>} 
        {currentSelection === 'Projects' && <Projects />} 
        {currentSelection === 'Contact' && <Contact />} 
        {currentSelection === 'Resume' && <Resume />} 
