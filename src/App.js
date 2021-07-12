@@ -1,4 +1,3 @@
-import './assets/css/style.css';
 import './assets/css/hero.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navigation from './components/nav'

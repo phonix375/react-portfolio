@@ -17,17 +17,18 @@ function Projects(){
 
     ]
     return(
-      <Container>
+      <Container className="projects">
         {projectList.map((project, i) => (
-            <img
-            src={require(`../../assets/img/${project.name}.jpg`).default}
-            alt={project.name}
-            className="project"
-            key={i}
-          />
-          
+            <div className={`project ${project.name} projectBackgroundSettings projects-tiles`} key={project.name}>
+            <div className="projecttext">
+                <a href="https://glacial-hamlet-81144.herokuapp.com/" target="_blank" rel="noreferrer">
+                    <h4>{project.name}</h4>
+                    <p>{project.discription}</p>
+                </a>
+            </div>
+        </div>
         ))}
-      </Container>
+    </Container>
     )
 }
 
