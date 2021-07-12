@@ -225,5 +225,10 @@ header img{
       width: 250px;
   }
 
+
+
 }
 
+.footerIcon:hover{
+  fill:#999999
+}

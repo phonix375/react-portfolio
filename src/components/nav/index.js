@@ -11,7 +11,7 @@ function Navigation(props){
     return(
         <Navbar bg="dark" variant="dark">
         <Container>
-        <Navbar.Brand href="#home">Alexy Kotliar</Navbar.Brand>
+        <Navbar.Brand name='About' onClick={clickHandel}>Alexy Kotliar</Navbar.Brand>
         <Nav className="me-auto">
           <Nav.Link name='About' onClick={clickHandel}>About Me</Nav.Link>
           <Nav.Link name='Projects' onClick={clickHandel}>My Projects</Nav.Link>
