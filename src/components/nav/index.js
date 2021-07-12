@@ -6,12 +6,13 @@ function Navigation(props){
      setCurrentSelection} = props
 
     function clickHandel(e){
+
       setCurrentSelection(e.target.name)
     }
     return(
         <Navbar bg="dark" variant="dark">
         <Container>
-        <Navbar.Brand name='About' onClick={clickHandel}>Alexy Kotliar</Navbar.Brand>
+        <Navbar.Brand>Alexy Kotliar</Navbar.Brand>
         <Nav className="me-auto">
           <Nav.Link name='About' onClick={clickHandel}>About Me</Nav.Link>
           <Nav.Link name='Projects' onClick={clickHandel}>My Projects</Nav.Link>
